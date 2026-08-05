@@ -2,7 +2,7 @@
 
 # Hi, I'm Aditya Kumar 👋
 
-**2nd-year B.S. Computer Science + Data Analytics · IIT Patna**
+**2nd-year · Computer Science + Data Analytics · IIT Patna**
 
 Building my way toward **quantitative finance** — Python-first, end to end · 🎯 MFE applications Dec 2028
 
