@@ -32,8 +32,9 @@ Building my way toward **quantitative finance** — Python-first, end to end · 
 ## 📈 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adivx&show_icons=true&theme=radical&hide_border=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adivx&layout=compact&theme=radical&hide_border=true" width="38%" />
+  <img src="https://img.shields.io/github/followers/adivx?style=for-the-badge&logo=github&logoColor=white&color=fe428e" />
+  <img src="https://img.shields.io/github/stars/adivx/risk-engine?style=for-the-badge&label=risk-engine%20stars&color=fe428e" />
+  <img src="https://img.shields.io/github/stars/adivx/ticker-terminal?style=for-the-badge&label=ticker-terminal%20stars&color=fe428e" />
 </p>
 
 <p align="center">
@@ -42,12 +43,6 @@ Building my way toward **quantitative finance** — Python-first, end to end · 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adivx&theme=github-dark-dimmed&hide_border=true" width="92%" />
-</p>
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adivx&theme=radical&no-bg=true&no-frame=true&column=4" />
 </p>
 
 ## 🚀 Currently
