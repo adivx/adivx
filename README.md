@@ -32,9 +32,8 @@ Building my way toward **quantitative finance** — Python-first, end to end · 
 ## 📈 GitHub stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/adivx?style=for-the-badge&logo=github&logoColor=white&color=fe428e" />
-  <img src="https://img.shields.io/github/stars/adivx/risk-engine?style=for-the-badge&label=risk-engine%20stars&color=fe428e" />
-  <img src="https://img.shields.io/github/stars/adivx/ticker-terminal?style=for-the-badge&label=ticker-terminal%20stars&color=fe428e" />
+  <img src="https://github-readme-stats-adivx1.vercel.app/api?username=adivx&show_icons=true&theme=radical&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats-adivx1.vercel.app/api/top-langs/?username=adivx&theme=radical&hide_border=true" width="38%" />
 </p>
 
 <p align="center">
