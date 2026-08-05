@@ -37,7 +37,7 @@ Building my way toward **quantitative finance** — Python-first, end to end · 
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=adivx&theme=radical&hide_border=true" width="55%" />
+  <img src="https://streak-stats.demolab.com?user=adivx&theme=radical&hide_border=true&v=2" width="55%" />
 </p>
 
 <p align="center">
